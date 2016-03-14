@@ -1,0 +1,182 @@
+General Styling*/
+.underline {
+	text-decoration: underline;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.remove-uppercase {
+	text-transform: none;
+}
+
+.italic {
+	font-style: italic;
+}
+
+/* Mission */
+.missionDiv {
+	margin: 0 auto;	
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+	.missionList {
+		max-width: 75%;
+		margin: 0 auto;
+	}
+
+	.videoWrapper {
+		position: relative;
+		padding-bottom: 56.25%; /* 16:9 */
+		padding-top: 25px;
+		height: 0;
+	}
+
+		.videoWrapper iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+
+
+/* Team */
+.tamika-bio {
+	font-size: .97em;
+}
+
+.bio-photo-container {
+	background-color: black;
+	opacity: 0.5;
+}
+
+.team-members-container {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.hr-padded {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+
+/* Characters */
+
+#characters {
+	margin-top: 50px;
+}
+
+p.character-text {
+	font-size: .95em;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+.character-header {
+	/*margin: 0 auto;*/
+	width: 100%;
+}
+
+.media-heading {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.character-photo {
+	display:block;
+    margin:auto;
+	max-width: 100%;
+}
+
+
+
+
+
+
+
+/* video */
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/*references*/
+.references {
+	font-style: italic;
+	margin-top: 50px;
+	margin-bottom: -100px;
+}
+
+
+/* Support */
+
+.twitter-timeline {
+	max-height: 300px;
+}
+
+
+/* Media Queries */
+@media only screen and (min-width: 768px) {
+	.testimonials {
+		padding-left: 0;
+		margin-left: -15px;
+	}
+
+	/* Awards */
+	.awards-row {
+		max-height: 300px;
+		width: 100%;
+	}
+	.award {
+		max-height: 300px;
+		margin: 0 auto;
+		padding-bottom: 20px;
+		padding-left: 24px;
+	}
+	.award-right {
+		margin-top: 35px;
+	}
+
+}
+@media only screen and (max-width: 1000px) {
+
+	/* Awards */
+	.awards-row {
+		max-height: 300px;
+		width: 100%;
+		margin-bottom: 100px;
+	}
+	.award {
+		max-height: 200px;
+		margin: 0 auto;
+		padding-bottom: 20px;
+		padding-left: 24px;
+	}
+	
+	/*references*/
+	.references {
+		font-style: italic;
+		/*margin-top: 100px;*/
+		/*margin-bottom: -100px;*/
+	}
+
+}
+
+
+
+
+

@@ -574,6 +574,7 @@ Story
             </div>
         </div>
     </aside>
+    <div class="clear"></div>
 
 
 <!-- Support -->
@@ -590,12 +591,16 @@ Story
                 <br>
                 <br>
             </div>
+            <div class="clear"></div>
 
+<!-- Twitter -->
             <div class="col-md-12 twitter-div">
-                <a class="twitter-timeline" href="https://twitter.com/BGoodFilmTV" data-widget-id="709846803915608064">Tweets by @BGoodFilmTV</a>
-                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+                <a class="twitter-timeline" href="http://twitter.com/BGoodFilmTV" data-widget-id="709846803915608064">Tweets by @BGoodFilmTV</a>
+                <script>
+                    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
                 </script>
             </div>
+            <div class="clear"></div>
             
         </div>
     </section>

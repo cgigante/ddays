@@ -1,4 +1,4 @@
-General Styling*/
+/*General Styling*/
 .underline {
 	text-decoration: underline;
 }
@@ -13,6 +13,18 @@ General Styling*/
 
 .italic {
 	font-style: italic;
+}
+
+
+/*Story*/
+
+#story-header-text {
+	/*This changes the font size for the "A Feature Film from Tamika R. Guishard"*/
+	font-size: 2em;
+}
+
+.logline {
+	text-align: center;
 }
 
 /* Mission */
@@ -41,6 +53,8 @@ General Styling*/
 			width: 100%;
 			height: 100%;
 		}
+
+
 
 
 
@@ -129,6 +143,7 @@ p.character-text {
 }
 
 
+
 /* Media Queries */
 @media only screen and (min-width: 768px) {
 	.testimonials {
@@ -151,6 +166,10 @@ p.character-text {
 		margin-top: 35px;
 	}
 
+	#srobert-video {
+			margin-top: -150px;
+	}
+
 }
 @media only screen and (max-width: 1000px) {
 
@@ -170,8 +189,12 @@ p.character-text {
 	/*references*/
 	.references {
 		font-style: italic;
-		/*margin-top: 100px;*/
 		/*margin-bottom: -100px;*/
+		padding-bottom: 50px;
+	}
+
+	#srobert-video {
+		margin-top: 0px;
 	}
 
 }

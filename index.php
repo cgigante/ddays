@@ -120,7 +120,9 @@
             <h3>
             	<a href="https://twitter.com/BGoodFilmTV" target="_blank"><i class="fa fa-twitter fa-fw fa-2x"></i></a> 
                 <a href="https://www.facebook.com/BGoodProductions/" target="_blank"><i class="fa fa-facebook fa-fw fa-2x"></i></a> 
-            	<a href="https://vimeo.com/bgoodproductions" target="_blank"><i class="fa fa-vimeo fa-fw fa-2x"></i></a>
+            	<a href="https://vimeo.com/79425989" target="_blank"><i class="fa fa-vimeo fa-fw fa-2x"></i></a>
+            	<!-- <a href="https://instagram.com/bgoodfilmtv" target="_blank"><i class="fa fa-instagram fa-fw fa-2x"></i></a> -->
+                <a href="https://www.youtube.com/watch?v=YxtBXqrL3MQ" target="_blank"><i class="fa fa-youtube fa-fw fa-2x"></i></a>
             </h3>
         </div>
         <div class="scroll-down page-scroll">
@@ -138,12 +140,12 @@ Story
             <div class="row text-center">
                 <div class="col-lg-2"></div>
                 <div class="col-lg-8 wow fadeIn">
-                    <h3 class="remove-uppercase">A Feature Film<br>from Tamika R. Guishard</h3>
+                    <h2 id="story-header-text" class="remove-uppercase">A Feature Film from Tamika R. Guishard</h2>
                     <div class="missionDiv">
                         <br>
-                        <p class="italic">When three foster siblings encounter PTSD, cancer and their birth-mothers they learn that hustling out of the Crack Epidemic was only the beginning.</p>
+                        <p class="italic logline">When three foster siblings encounter PTSD, cancer and their birth-mothers they learn that hustling out of the Crack Epidemic was only the beginning.</p>
                         <br>
-                        <p><span class="text-primary" style="font-style: italic">D-Days</span> is the dance-driven story of three foster kids born at the tail-end of the Crack Epidemic. They embody the three main paths out the "hood": school, (military) service or the street and overcome adversity, but are forced to redefine "success" as young adults who encounter leukemia, post-traumatic stress and suicidal guilt. Through African rhythms, relationships and wounds are healed, proving that forgiveness comes in many forms.</p>
+                        <p><span class="text-primary" style="font-style: italic">D-Days</span> is the dance-driven story of three foster kids born at the tail-end of the Crack Epidemic. They embody the three traditional paths "out of the hood": <span class="bold">school</span>, (military) <span class="bold">service</span> or the <span class="bold">street</span> and overcome adversity, but are forced to redefine "success" as young adults who encounter leukemia, post-traumatic stress and suicidal guilt. Through African rhythms, relationships and wounds are healed, proving that forgiveness comes in many forms.</p>
                     </div>
                 </div>
                 <div class="col-lg-2"></div>
@@ -168,7 +170,7 @@ Story
                         </div>
                         <div class="media-body">
                             <p class="character-text">
-                                Of the three (foster) siblings, Jackie has neither physical nor mental remnants of her birth-mother. <span class="bold">A potent mix of group home survivor and boarding school elite</span>, she is the American dream—completely detached from her controversial beginnings. If Dante is the Lion, needing courage to stop dealing drugs, and Duke is the Scarecrow, a head case, <span class="bold"><a href="https://vimeo.com/79425989" target="_blank">Jackie</a> is the Tin Man on the trio's journey</span>. African rhythms helps her process her feelings, but alcohol numbs them out. Looking more like her sister, Jackie is reunited with her birth-mother only to find out that she is <span class="bold">out for blood</span>.
+                                Of the three (foster) siblings, Jackie has neither physical nor mental remnants of her birth-mother. A potent mix of group home survivor and boarding school elite, she is the American dream—completely detached from her controversial beginnings. If Dante is the Lion, needing courage to stop dealing drugs, and Duke is the Scarecrow, a head case, <span class="bold"><a href="https://vimeo.com/79425989" target="_blank">Jackie</a> is the Tin Man on the trio's journey</span>. African rhythms helps her process her feelings, but alcohol numbs them out. Looking more like her sister, Jackie is reunited with her birth-mother only to find out that she is <span class="bold">out for blood</span>.
                             </p>
                         </div>
                     </div>
@@ -196,7 +198,7 @@ Story
                         </div>
                         <div class="media-body">
                             <p class="character-text">
-                                Dante is the only foster sibling with any <span class="bold">memory of his mother</span>. When an eerily familiar rhythm at Jackie's dance show catapults him back to that last day with his birth-mother, he <span class="bold">decides to find her</span> as soon as he returns home. A focused Dante readies to be legitimately legal on his 21st birthday, Halloween--a promise he made to his foster siblings as a teenager. Still learning how to fly, Dante takes his very last fiend under his wing. Despite his good intentions, Dante's <span class="bold">retribution</span> is worse than any jail cell could ever be.
+                                Dante is the only foster sibling with any <span class="bold">memory of his mother</span>. When an eerily familiar rhythm at Jackie's dance show catapults him back to that last day with his birth-mother, he <span class="bold">decides to find her</span> as soon as he returns home. A focused Dante readies to be legitimately legal on his 21st birthday, Halloween--as a teenager he promised his foster siblings he'd quit selling drugs by 21. Still learning how to fly, Dante takes his very last friend under his wing as she travails <span class="bold">withdrawal</span>. Despite his good intentions, Dante's <span class="bold">retribution</span> is worse than any jail cell could ever be.
                             </p>
                         </div>
                     </div>
@@ -280,7 +282,7 @@ Story
                             <div class="caption">
                                 <h3>Jeffrey Page</h3>
                                 <hr class="colored">
-                                <p>Choreographer</p>
+                                <p>Choreographer/Co-Author Source Material</p>
                                 <ul class="list-inline social">
                                     <li>
                                         <a href="#portfolioModal4" data-toggle="modal"><i style="font-size: 2em;" class="fa fa-info-circle fa-fw"></i></a>
@@ -381,34 +383,34 @@ Story
 
                 </div>
 
-                <div class="container text-center wow fadeIn">
-                    <div class="row">
-                        <div class="col-lg-12 hr-padded">
-                            <hr class="colored">
-                        </div>
+            </div>
+
+            <div class="container text-center wow fadeIn">
+                <div class="row">
+                    <div class="col-lg-12 hr-padded">
+                        <hr class="colored">
                     </div>
                 </div>
+            </div>
 
 <!-- Tamika -->
-				<div class="col-lg-12 wow fadeIn">
-                    <h3>Tamika R. Guishard</h3>
-                    <h4 class="remove-uppercase">Writer/Director</h4>
-                    <br>
-                    <div class="row">
-                    	<div class="col-md-3">
-	                    	<img src="assets/img/people/tamika_main.png" style="max-width: 100%;" alt="Photo of Tamika R. Guishard" />
-	                    </div>
-	                    <div class="col-md-9">
-							<div class="missionDiv">
-		                        <p class="tamika-bio"><span class="text-primary tamika-bio">Tamika R. Guishard</span> is a first-generation American, born of Kittitian (West Indian) heritage in East New York, Brooklyn.  With the mind of a storyteller, heart of a teacher, and soul of a dancer, Tamika is a writer/director who taught middle school Social Studies in her native East New York before completing the NYU Graduate Film program.  She believes in the powerful fusion of education and cinema, producing for DC Public Schools, National Park Service, Tribeca Film Institute and on Leech Lake Reservation in her quest to make "films that help".</p>
-		                        <p class="tamika-bio">Having been recognized by Oscar-qualifying film festivals and Hollywood Foreign Press for her narrative shorts as well as featured at Harvard's Center for Educational Policy Research and Austin's SXSWedu for her pedagogical video expertise, Tamika's cultivated a unique skillset for telling powerful, purposeful stories--even serving as a federal Park Ranger at Manhattan's African Burial Ground to produce webisodes for the launch of Ken Burns' "The NationalParks: America's Best Idea" with youth from Harlem Children's Zone.</p>
-		                        <p class="tamika-bio">She continues to thrive at the potent intersection of art and education and has made it her life's work.  From her middle school motto of "to whom much is given, much is required" to the "nonsibi" fundamentals imbued in her while boarding at Phillips Andover, education has always gone hand in hand with service for Tamika. Her affinity for collaboration and devotion to story makes film a nat­ural fit: it's the medium through which she can most greatly serve her community and impact the world.</p>
-	                    	</div>		                    	
-	                    </div>                    
+            <div class="col-lg-12 wow fadeIn">
+                <h3>Tamika R. Guishard</h3>
+                <h4 class="remove-uppercase">Writer/Director</h4>
+                <br>
+                <div class="row">
+                    <div class="col-md-3">
+                        <img src="assets/img/people/tamika_main.png" style="max-width: 100%;" alt="Photo of Tamika R. Guishard" />
                     </div>
+                    <div class="col-md-9">
+                        <div class="missionDiv">
+                            <p class="tamika-bio"><span class="text-primary tamika-bio">Tamika R. Guishard</span> is a first-generation American, born of Kittitian (West Indian) heritage in East New York, Brooklyn.  With the mind of a storyteller, heart of a teacher, and soul of a dancer, Tamika is a writer/director who taught middle school Social Studies in her native East New York before completing the NYU Graduate Film program.  She believes in the powerful fusion of education and cinema, producing for DC Public Schools, National Park Service, Tribeca Film Institute and on Leech Lake Reservation in her quest to make "films that help".</p>
+                            <p class="tamika-bio">Having been recognized by Oscar-qualifying film festivals and Hollywood Foreign Press for her narrative shorts as well as featured at Harvard's Center for Educational Policy Research and Austin's SXSWedu for her pedagogical video expertise, Tamika's cultivated a unique skillset for telling powerful, purposeful stories--even serving as a federal Park Ranger at Manhattan's African Burial Ground to produce webisodes for the launch of Ken Burns' "The NationalParks: America's Best Idea" with youth from Harlem Children's Zone.</p>
+                            <p class="tamika-bio">She continues to thrive at the potent intersection of art and education and has made it her life's work.  From her middle school motto of "to whom much is given, much is required" to the "nonsibi" fundamentals imbued in her while boarding at Phillips Andover, education has always gone hand in hand with service for Tamika. Her affinity for collaboration and devotion to story makes film a nat­ural fit: it's the medium through which she can most greatly serve her community and impact the world.</p>
+                        </div>                              
+                    </div>                    
                 </div>
-
-            </div>
+            </div> 
         </div>
     </section>
 
@@ -437,12 +439,13 @@ Story
 		            <div class="row">
 		                <div class="col-lg-12">
 		                    <div class="testimonials-carousel">
-		                        <div class="item">
+		                        
+<!-- Spike Lee Quote -->
+                                <div class="item">
 		                            <div class="row">
 		                                <div class="col-lg-12">
 		                                    <p class="remove-uppercase bold italic">"Tamika has proven herself to be a gifted storyteller, on both the page and the screen."</p>
 		                                    <hr class="colored">
-		                                    <!-- <p class="quote">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, temporibus, laborum, dignissimos doloremque corporis alias nostrum recusandae culpa id quisquam harum impedit sed sunt non obcaecati vero ipsam aut fugit?</p> -->
 		                                    <div class="testimonial-info">
 		                                        <div class="testimonial-img">
 		                                            <img src="assets/img/testimonials/1.jpg" class="img-circle img-responsive" alt="">
@@ -455,35 +458,73 @@ Story
 		                                </div>
 		                            </div>
 		                        </div>
-		                        
+
+<!-- Jeffrey Quote -->
+                                <div class="item">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <p class="remove-uppercase bold italic">"Now is the most powerful time ever for a project like this to come out."</p>
+                                            <hr class="colored">
+                                            <div class="testimonial-info">
+                                                <div class="testimonial-img">
+                                                    <img src="assets/img/testimonials/jeffrey.jpg" class="img-circle img-responsive" alt="">
+                                                </div>
+                                                <div class="testimonial-author">
+                                                    <span class="name">Jeffrey Page</span>
+                                                    <p class="small">Award-Winning Choreographer (Beyoncé, Broadway, Broadcast - So You Think You Can Dance)</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+<!-- Tanya Quote -->
+                                <div class="item">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <p class="remove-uppercase bold italic">"<span class="text-primary">Jackie.</span> is a glimpse into what I’ve always suspected was true: that we are far more similar than we are different."</p>
+                                            <hr class="colored">
+                                            <div class="testimonial-info">
+                                                <div class="testimonial-img">
+                                                    <img src="assets/img/people/tanya.png" class="img-circle img-responsive" alt="">
+                                                </div>
+                                                <div class="testimonial-author">
+                                                    <span class="name">Tanya Wright</span>
+                                                    <p class="small">Orange is the New Black, True Blood</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+<!-- Darnell Martin Quote -->		                        
 		                        <div class="item">
 		                            <div class="row">
 		                                <div class="col-lg-12">
 		                                    <p class="remove-uppercase bold italic">"Beautiful performances."</p>
 		                                    <hr class="colored">
-		                                   <!--  <p class="quote">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, temporibus, laborum, dignissimos doloremque corporis alias nostrum recusandae culpa id quisquam harum impedit sed sunt non obcaecati vero ipsam aut fugit?</p> -->
 		                                    <div class="testimonial-info">
-		                                        <!-- <div class="testimonial-img">
-		                                            <img src="assets/img/testimonials/1.jpg" class="img-circle img-responsive" alt="">
-		                                        </div> -->
+		                                        <div class="testimonial-img">
+		                                            <img src="assets/img/people/darnell.png" class="img-circle img-responsive" alt="Darnell Martin">
+		                                        </div>
 		                                        <div class="testimonial-author">
 		                                            <span class="name">Darnell Martin</span>
-		                                            <p class="small">Cadillac Records</p>
+		                                            <p class="small">Cadillac Records, Prison Song</p>
 		                                        </div>
 		                                    </div>
 		                                </div>
 		                            </div>
 		                        </div>
 
+<!-- Seith Quote -->
 		                        <div class="item">
 		                            <div class="row">
 		                                <div class="col-lg-12">
 		                                    <p class="remove-uppercase bold italic">"Tamika's perseverance in pursuing a dance film for her first feature...is extremely brave."</p>
 		                                    <hr class="colored">
-		                                    <!-- <p class="quote">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, temporibus, laborum, dignissimos doloremque corporis alias nostrum recusandae culpa id quisquam harum impedit sed sunt non obcaecati vero ipsam aut fugit?</p> -->
 		                                    <div class="testimonial-info">
 		                                        <div class="testimonial-img">
-		                                            <img src="assets/img/testimonials/seith.jpg" class="img-circle img-responsive" alt="">
+		                                            <img src="assets/img/testimonials/seith.jpg" class="img-circle img-responsive" alt="Seith">
 		                                        </div>
 		                                        <div class="testimonial-author">
 		                                            <span class="name">Seith Mann</span>
@@ -493,45 +534,6 @@ Story
 		                                </div>
 		                            </div>
 		                        </div>
-
-                                <div class="item">
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <p class="remove-uppercase bold italic">"Jackie is a glimpse into what I've always suspected was true: that we are far more similar than we are different."</p>
-                                            <hr class="colored">
-                                            <!-- <p class="quote">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, temporibus, laborum, dignissimos doloremque corporis alias nostrum recusandae culpa id quisquam harum impedit sed sunt non obcaecati vero ipsam aut fugit?</p> -->
-                                            <div class="testimonial-info">
-                                                <!-- <div class="testimonial-img">
-                                                    <img src="assets/img/testimonials/1.jpg" class="img-circle img-responsive" alt="">
-                                                </div> -->
-                                                <div class="testimonial-author">
-                                                    <span class="name">Tanya Wright</span>
-                                                    <p class="small">"Orange is the New Black"</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="item">
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <p class="remove-uppercase bold italic">"Quote coming soon"</p>
-                                            <hr class="colored">
-                                            <!-- <p class="quote">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, temporibus, laborum, dignissimos doloremque corporis alias nostrum recusandae culpa id quisquam harum impedit sed sunt non obcaecati vero ipsam aut fugit?</p> -->
-                                            <div class="testimonial-info">
-                                                <div class="testimonial-img">
-                                                    <img src="assets/img/testimonials/jeffrey.jpg" class="img-circle img-responsive" alt="">
-                                                </div>
-                                                <div class="testimonial-author">
-                                                    <span class="name">Jeffrey Page</span>
-                                                    <p class="small">Award-Winning Choreographer (Beyonce, Broadway)</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
 		                    </div>
 		                </div>
 		            </div>
@@ -564,11 +566,11 @@ Story
     <aside class="cta-quote" style="background-image: url('assets/img/portfolio/bg-aside_blur_small.jpg');">
         <div class="container wow fadeIn">
             <div class="videoWrapper">
-                <iframe src="https://player.vimeo.com/video/136902886" width="1000" height="562" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                <iframe id="srobert-video" src="https://player.vimeo.com/video/136902886" width="1000" height="562" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
 
             <div class="container text-center wow fadeIn references">
-                <p>References from Spike Lee, S. Robert Morgan and other industry supporters furnished upon request.</p>
+                <span class="quote">References from Spike Lee, S. Robert Morgan and our community of supporters furnished upon request.</span>
             </div>
         </div>
     </aside>
@@ -581,13 +583,16 @@ Story
             <hr class="colored">
             
             <div class="col-md-12">
-                <h3><a href="https://www.fracturedatlas.org/site/fiscal/profile?id=13929" target="_blank">Contribute on Fractured Atlas</a></h3>
-                <h3><a href="https://twitter.com/BGoodFilmTV" target="_blank"><i class="fa fa-twitter"></i> Follow Us</a></h3>
-                <h3><a href="https://www.facebook.com/ddaysthefilm/" target="_blank"><i class="fa fa-facebook"></i> Like Us</a></h3>
-                <h3><a href="https://www.youtube.com/watch?v=YxtBXqrL3MQ" target="_blank"><i class="fa fa-youtube"></i> Watch Us</a></h3>
+                <h3><a href="https://www.fracturedatlas.org/site/fiscal/profile?id=13929" target="_blank"><img style="max-width: 30px;" src="assets/img/fracturedatlaslogo.png"> Donate</a></h3>
+                <h3><a href="https://twitter.com/BGoodFilmTV" target="_blank"><i class="fa fa-twitter"></i> Follow</a></h3>
+                <h3><a href="https://www.facebook.com/ddaysthefilm/" target="_blank"><i class="fa fa-facebook"></i> Like</a></h3>
+                <h3><a href="https://www.youtube.com/watch?v=YxtBXqrL3MQ" target="_blank"><i class="fa fa-youtube"></i> Watch</a></h3>
                 <br>
                 <br>
-                <a class="twitter-timeline" href="https://twitter.com/BGoodFilmTV" data-widget-id="708052769677115392">Tweets by @BGoodFilmTV</a>
+            </div>
+
+            <div class="col-md-12 twitter-div">
+                <a class="twitter-timeline" href="https://twitter.com/BGoodFilmTV" data-widget-id="709846803915608064">Tweets by @BGoodFilmTV</a>
                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
                 </script>
             </div>
@@ -654,13 +659,8 @@ Story
         <div class="container text-center">
             <div class="row">
                 <div class="col-md-6 contact-details">
-                    <!-- <h4><i class="fa fa-phone"></i> Call</h4>
-                    <p>917.270.2567</p> -->
                 </div>
                 <div class="col-md-6 contact-details">
-                    <!-- <h4><i class="fa fa-envelope"></i> Email</h4>
-                    <p><a href="mailto:bgoodfilmtv@gmail.com">bgoodfilmtv@gmail.com</a>
-                    </p> -->
                 </div>
             </div>
             <div class="row social">
@@ -668,13 +668,14 @@ Story
                     <ul class="list-inline">
                         <li><a href="https://twitter.com/BGoodFilmTV" target="_blank"><i class="fa fa-twitter fa-fw fa-2x"></i></a>
                         </li>
-                        <li><a href="https://instagram.com/bgoodfilmtv" target="_blank"><i class="fa fa-instagram fa-fw fa-2x"></i></a>
-                        </li>
+                        
                         <li><a href="https://www.facebook.com/ddaysthefilm/" target="_blank"><i class="fa fa-facebook fa-fw fa-2x"></i></a>
                         </li>
-                        <li><a href="https://vimeo.com/bgoodproductions" target="_blank"><i class="fa fa-vimeo fa-fw fa-2x"></i></a>
-                        </li>                        
-                        <li><a href="https://www.youtube.com/user/bgoodproduct" target="_blank"><i class="fa fa-youtube fa-fw fa-2x"></i></a>
+                        <li><a href="https://vimeo.com/79425989" target="_blank"><i class="fa fa-vimeo fa-fw fa-2x"></i></a>
+                        </li>     
+                        <li><a href="https://instagram.com/bgoodfilmtv" target="_blank"><i class="fa fa-instagram fa-fw fa-2x"></i></a>
+                        </li>                   
+                        <li><a href="https://www.youtube.com/watch?v=YxtBXqrL3MQ" target="_blank"><i class="fa fa-youtube fa-fw fa-2x"></i></a>
                         </li>
                     </ul>
                 </div>

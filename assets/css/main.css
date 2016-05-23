@@ -113,6 +113,8 @@ p.character-text {
 
 
 
+
+
 /* video */
 .videoWrapper {
 	position: relative;
@@ -137,11 +139,15 @@ p.character-text {
 
 
 /* Support */
-
 .twitter-timeline {
 	max-height: 300px;
 }
 
+
+/*Footer*/
+.footer {
+	min-height: 550px;
+}
 
 
 /* Media Queries */
@@ -170,6 +176,8 @@ p.character-text {
 			margin-top: -150px;
 	}
 
+
+
 }
 @media only screen and (max-width: 1000px) {
 
@@ -195,6 +203,10 @@ p.character-text {
 
 	#srobert-video {
 		margin-top: 0px;
+	}
+
+	.media-query-break {
+		display: none;
 	}
 
 }

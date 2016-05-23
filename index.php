@@ -122,7 +122,7 @@
                 <a href="https://www.facebook.com/BGoodProductions/" target="_blank"><i class="fa fa-facebook fa-fw fa-2x"></i></a> 
             	<a href="https://vimeo.com/79425989" target="_blank"><i class="fa fa-vimeo fa-fw fa-2x"></i></a>
             	<!-- <a href="https://instagram.com/bgoodfilmtv" target="_blank"><i class="fa fa-instagram fa-fw fa-2x"></i></a> -->
-                <a href="https://www.youtube.com/watch?v=YxtBXqrL3MQ" target="_blank"><i class="fa fa-youtube fa-fw fa-2x"></i></a>
+                <!-- <a href="https://www.youtube.com/watch?v=YxtBXqrL3MQ" target="_blank"><i class="fa fa-youtube fa-fw fa-2x"></i></a> -->
             </h3>
         </div>
         <div class="scroll-down page-scroll">
@@ -143,9 +143,9 @@ Story
                     <h2 id="story-header-text" class="remove-uppercase">A Feature Film from Tamika R. Guishard</h2>
                     <div class="missionDiv">
                         <br>
-                        <p class="italic logline">When three foster siblings encounter PTSD, cancer and their birth-mothers they learn that hustling out of the Crack Epidemic was only the beginning.</p>
+                        <p class="italic logline">When three foster siblings encounter PTSD, cancer and their birth-mothers, they learn that <br class="media-query-break"> hustling out of the Crack Epidemic was only the beginning.</p>
                         <br>
-                        <p><span class="text-primary" style="font-style: italic">D-Days</span> is the dance-driven story of three foster kids born at the tail-end of the Crack Epidemic. They embody the three traditional paths "out of the hood": <span class="bold">school</span>, (military) <span class="bold">service</span> or the <span class="bold">street</span> and overcome adversity, but are forced to redefine "success" as young adults who encounter leukemia, post-traumatic stress and suicidal guilt. Through African rhythms, relationships and wounds are healed, proving that forgiveness comes in many forms.</p>
+                        <p><span class="text-primary" style="font-style: italic">D-Days</span> is the dance-driven story of three foster kids born at the tail-end of the Crack Epidemic. They embody the three traditional paths "out of the hood" &mdash; <span class="bold">school</span>, (military) <span class="bold">service</span> and/or the <span class="bold">street</span> &mdash; and overcome adversity, but are forced to redefine "success" as young adults who encounter leukemia, post-traumatic stress and suicidal guilt. Through African rhythms, relationships and wounds are healed, proving that forgiveness comes in many forms.</p>
                     </div>
                 </div>
                 <div class="col-lg-2"></div>
@@ -170,7 +170,7 @@ Story
                         </div>
                         <div class="media-body">
                             <p class="character-text">
-                                Of the three (foster) siblings, Jackie has neither physical nor mental remnants of her birth-mother. A potent mix of group home survivor and boarding school elite, she is the American dream—completely detached from her controversial beginnings. If Dante is the Lion, needing courage to stop dealing drugs, and Duke is the Scarecrow, a head case, <span class="bold"><a href="https://vimeo.com/79425989" target="_blank">Jackie</a> is the Tin Man on the trio's journey</span>. African rhythms helps her process her feelings, but alcohol numbs them out. Looking more like her sister, Jackie is reunited with her birth-mother only to find out that she is <span class="bold">out for blood</span>.
+                                Of the three (foster) siblings, Jackie has neither physical nor mental remnants of her birth-mother. A potent mix of <span class="bold">group home survivor and boarding school elite</span>, she is the American dream—completely detached from her controversial beginnings. If Dante is the Lion, needing courage to stop dealing drugs, and Duke is the Scarecrow, a head case, <span class="bold">Jackie is the Tin Man on the trio's journey</span>. African rhythms helps her process her feelings, but alcohol numbs them out. Looking more like her sister, Jackie is reunited with her birth-mother only to find out that she is <span class="bold">out for blood</span>. <a href="https://vimeo.com/79425989" target="_blank">[Proof of D-DAYS' Concept]</a>
                             </p>
                         </div>
                     </div>
@@ -198,7 +198,7 @@ Story
                         </div>
                         <div class="media-body">
                             <p class="character-text">
-                                Dante is the only foster sibling with any <span class="bold">memory of his mother</span>. When an eerily familiar rhythm at Jackie's dance show catapults him back to that last day with his birth-mother, he <span class="bold">decides to find her</span> as soon as he returns home. A focused Dante readies to be legitimately legal on his 21st birthday, Halloween--as a teenager he promised his foster siblings he'd quit selling drugs by 21. Still learning how to fly, Dante takes his very last friend under his wing as she travails <span class="bold">withdrawal</span>. Despite his good intentions, Dante's <span class="bold">retribution</span> is worse than any jail cell could ever be.
+                                Dante is the only foster sibling with any <span class="bold">memory of his mother</span>. When an eerily familiar rhythm at Jackie's dance show catapults him back to that last day with his birth-mother, he <span class="bold">decides to find her</span> as soon as he returns home. A focused Dante readies to be legitimately legal on his 21st birthday, Halloween &mdash; as a teenager he promised his foster siblings he'd quit selling drugs by 21. Still learning how to fly, Dante takes his very last friend under his wing as she travails <span class="bold">withdrawal</span>. Despite his good intentions, Dante's <span class="bold">retribution</span> is worse than any jail cell could ever be.
                             </p>
                         </div>
                     </div>
@@ -214,7 +214,7 @@ Story
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
                     <span class="quote">
-                        <span class="text-primary">In East New York</span> those who excel have about three ways to rise above the circumstances within which they were born: <span class="text-primary">school</span>, <span class="text-primary">service</span> or the <span class="text-primary">street</span>.
+                        In<span class="text-primary"> East New York</span> those who excel have about three ways to rise above the circumstances within which they were born: <span class="text-primary">school</span>, <span class="text-primary">service</span> or the <span class="text-primary">street</span>.
                         <br>
                         <br>
                         These are their stories.
@@ -404,9 +404,9 @@ Story
                     </div>
                     <div class="col-md-9">
                         <div class="missionDiv">
-                            <p class="tamika-bio"><span class="text-primary tamika-bio">Tamika R. Guishard</span> is a first-generation American, born of Kittitian (West Indian) heritage in East New York, Brooklyn.  With the mind of a storyteller, heart of a teacher, and soul of a dancer, Tamika is a writer/director who taught middle school Social Studies in her native East New York before completing the NYU Graduate Film program.  She believes in the powerful fusion of education and cinema, producing for DC Public Schools, National Park Service, Tribeca Film Institute and on Leech Lake Reservation in her quest to make "films that help".</p>
-                            <p class="tamika-bio">Having been recognized by Oscar-qualifying film festivals and Hollywood Foreign Press for her narrative shorts as well as featured at Harvard's Center for Educational Policy Research and Austin's SXSWedu for her pedagogical video expertise, Tamika's cultivated a unique skillset for telling powerful, purposeful stories--even serving as a federal Park Ranger at Manhattan's African Burial Ground to produce webisodes for the launch of Ken Burns' "The NationalParks: America's Best Idea" with youth from Harlem Children's Zone.</p>
-                            <p class="tamika-bio">She continues to thrive at the potent intersection of art and education and has made it her life's work.  From her middle school motto of "to whom much is given, much is required" to the "nonsibi" fundamentals imbued in her while boarding at Phillips Andover, education has always gone hand in hand with service for Tamika. Her affinity for collaboration and devotion to story makes film a nat­ural fit: it's the medium through which she can most greatly serve her community and impact the world.</p>
+                            <p class="tamika-bio"><span class="text-primary tamika-bio">Tamika R. Guishard</span> is a first-generation American, born of Kittitian and Nevisian (West Indian) heritage in East New York, Brooklyn.  With the mind of a storyteller, heart of a teacher, and soul of a dancer, Tamika is a writer/director who taught middle school Social Studies in her native East New York before completing the NYU Graduate Film program.  She believes in the powerful fusion of education and cinema, producing for DC Public Schools, National Park Service, Tribeca Film Institute and on Leech Lake Reservation in her quest to make "films that help".</p>
+                            <p class="tamika-bio">Having been recognized by Oscar-qualifying film festivals and Hollywood Foreign Press for her narrative shorts as well as featured at Harvard's Center for Educational Policy Research and Austin's SXSWedu for her pedagogical video expertise, Tamika's cultivated a unique skillset for telling powerful, purposeful stories &mdash; even serving as a federal Park Ranger at Manhattan's African Burial Ground to produce webisodes for the launch of Ken Burns' "The National Parks: America's Best Idea" with youth from Harlem Children's Zone.</p>
+                            <p class="tamika-bio">She continues to thrive at the potent intersection of art and education and has made it her life's work. From her middle school motto of "to whom much is given, much is required" to the "nonsibi" fundamentals imbued in her while boarding at Phillips Andover, education has always gone hand in hand with service for Tamika. Her affinity for collaboration and devotion to story makes film a nat­ural fit: it's the medium through which she can most greatly serve her community and impact the world.</p>
                         </div>                              
                     </div>                    
                 </div>
@@ -471,7 +471,7 @@ Story
                                                 </div>
                                                 <div class="testimonial-author">
                                                     <span class="name">Jeffrey Page</span>
-                                                    <p class="small">Award-Winning Choreographer (Beyoncé, Broadway, Broadcast - So You Think You Can Dance)</p>
+                                                    <p class="small">Award-Winning Choreographer (Beyoncé, Broadway, Broadcast - "So You Think You Can Dance")</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -482,7 +482,7 @@ Story
                                 <div class="item">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <p class="remove-uppercase bold italic">"<span class="text-primary">Jackie.</span> is a glimpse into what I’ve always suspected was true: that we are far more similar than we are different."</p>
+                                            <p class="remove-uppercase bold italic">"<span class="text-primary">'Jackie.'</span> is a glimpse into what I’ve always suspected was true: that we are far more similar than we are different."</p>
                                             <hr class="colored">
                                             <div class="testimonial-info">
                                                 <div class="testimonial-img">
@@ -490,7 +490,7 @@ Story
                                                 </div>
                                                 <div class="testimonial-author">
                                                     <span class="name">Tanya Wright</span>
-                                                    <p class="small">Orange is the New Black, True Blood</p>
+                                                    <p class="small">"Orange Is the New Black", "True Blood" Actress</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -509,7 +509,7 @@ Story
 		                                        </div>
 		                                        <div class="testimonial-author">
 		                                            <span class="name">Darnell Martin</span>
-		                                            <p class="small">Cadillac Records, Prison Song</p>
+		                                            <p class="small"><span class="italic">Cadillac Records</span>, <span class="italic">Prison Song</span> Writer/Director</p>
 		                                        </div>
 		                                    </div>
 		                                </div>
@@ -528,7 +528,7 @@ Story
 		                                        </div>
 		                                        <div class="testimonial-author">
 		                                            <span class="name">Seith Mann</span>
-		                                            <p class="small">"The Breaks"</p>
+		                                            <p class="small">VH1's "The Breaks" Writer/Director</p>
 		                                        </div>
 		                                    </div>
 		                                </div>
@@ -570,7 +570,7 @@ Story
             </div>
 
             <div class="container text-center wow fadeIn references">
-                <span class="quote">References from Spike Lee, S. Robert Morgan and our community of supporters furnished upon request.</span>
+                <span class="quote">References from Spike Lee, S. Robert Morgan and <br class="media-query-break"> our community of supporters furnished upon request.</span>
             </div>
         </div>
     </aside>
@@ -632,13 +632,15 @@ Story
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
-                        <div class="row control-group">
+                        
+                        <!-- <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Phone Number</label>
                                 <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
                                 <p class="help-block text-danger"></p>
                             </div>
-                        </div>
+                        </div> -->
+                        
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Message</label>
@@ -715,7 +717,7 @@ Story
                             <hr class="colored">
                             <img class="img-circle" style="max-width: 100px;" src="assets/img/people/z_no_overlay/cybel.jpg" />
                             <h4>Cybel Martin</h4>
-                            <p>Singled out for her expressive and stylized work, Cybel Martin is the ﬁrst and only African American woman to receive an MFA in Cinematography from New York University. She was the magic eye behind Dee Rees' "Orange Bow", premiering at Tribeca Film Festival and 'Sangram,' debuting at Sundance. Cybel has been featured on several cinematography panels and lecture series, collaborating with Columbia University's Psychology Department and Film Academy in Nigeria. Cybel has been featured in American Cinematographer and Fader magazines and is a cinematography writer for Indiewire.com.</p>
+                            <p>Singled out for her expressive and stylized work, Cybel Martin is the first and only African American woman to receive an MFA in Cinematography from New York University.  She was the magic eye behind Dee Rees’ “Orange Bow”, premiering at Tribeca Film Festival and “Sangram”, debuting at Sundance.  Cybel has been featured on several cinematography panels and lecture series, collaborating with Columbia University’s Psychology Department and Film Academy in Nigeria.  Cybel has been profiled in American Cinematographer and Fader magazines, and is a cinematography writer for Indiewire.com.</p>
                         </div>
 
                         <div class="col-lg-8 col-lg-offset-2">
@@ -744,7 +746,7 @@ Story
                             <img class="img-circle" style="max-width: 100px;" src="assets/img/people/z_no_overlay/sharese.jpg" />
                             <h4>Sharese Bullock-Bailey</h4>
                             <p>
-                                Educator, producer, strategic consultant and global youth-media expert who pioneered strategic partnerships at the international youth-media network Listen Up!, Sharese Bullock-Bailey is the Tribeca Teaches Manager at Tribeca Film Institute. She has showcased independent and youth media and culture to new audiences for the past 12 years through her writing and by curating and presenting work by young artists at festivals around the world. Bullock-Bailey is the producer of "Off and Running", an Emmy-nominated feature documentary co-produced by the Independent Television Service that had its national broadcast premiere on PBS. She serves on the Board of Directors for ITVS.
+                                Educator, producer, strategic consultant and global youth-media expert who pioneered strategic partnerships at the international youth-media network Listen Up!, Sharese Bullock-Bailey is the Tribeca Teaches Manager at Tribeca Film Institute.  She has showcased independent and youth media, and culture to new audiences for the past 12 years through her writing and by curating and presenting work by young artists at festivals around the world. Bullock-Bailey is the producer of “Off and Running”, an Emmy-nominated feature documentary co-produced by the Independent Television Service that had its national broadcast premiere on PBS. She serves on the Board of Directors for ITVS.
                             </p>
                         </div>
 
@@ -775,7 +777,7 @@ Story
                             <img class="img-circle" style="max-width: 100px;" src="assets/img/people/z_no_overlay/seith.jpg" />
                             <h4>Seith Mann</h4>
                             <p>
-                                Renowned television and ﬁlm director, Seith Mann, took the industry by storm with his NYU Graduate thesis "Five Deep Breaths". After winning Best Short Film at Sundance it went onto Tribeca as well as Cannes before garnering the attention of producers of one of HBO's most acclaimed shows, "The Wire". After completing lhe ABC DGA Fellowship, he's become a mainstay in the world of television. directing episodes of Homeland, The Walking Dead, Grey's Anatomy and many more. Seith seamlessly navigates the worlds of television and ﬁlm, garnering two IFP screenwriting awards for his feature ﬁlm script "Come Sunday", as well as directing his ﬁrst feature this year: a hip hop drama for VH1, entitled "The Breaks".
+                                Renowned television and film director, Seith Mann, took the industry by storm with his NYU Graduate thesis "Five Deep Breaths". After winning Best Short Film at Sundance it went onto Tribeca as well as Cannes before garnering the attention of producers of one of HBO's most acclaimed shows, “The Wire”. After completing the ABC DGA Fellowship, he's become a mainstay in the world of television, directing episodes of Homeland, The Walking Dead, Grey's Anatomy and many more. Seith seamlessly navigates the worlds of television and fllm, garnering two IFP screenwriting awards for his feature film script "Come Sunday", as well as directing his first television pilot this year: a hip hop drama for VH1, entitled "The Breaks".
                             </p>
                         </div>
 
@@ -805,7 +807,7 @@ Story
                             <img class="img-circle" style="max-width: 100px;" src="assets/img/people/z_no_overlay/jeffrey.jpg" />
                             <h4>Jeffrey Page</h4>
                             <p>
-                                Since penning D—DAYS' original dance theatre, "Dide Omo Dide (Rise, Child, Rise)" in 2000 with then Penn student Zenzele K. Royster, Jeffrey has emerged as a creative force to be reckoned with, having choreographed Beyonce's "On the Run" tour. Emmy Award nominated for Outstanding Choreography in Television and winner of the 2011 MTV Video Music Award for Best Choreography in Video, Jeffrey Page has worked with some of the most inﬂuential people in the world of dance. From the bright lights of Broadway in the Tony Award winning musical, FELA! To the stage of the Fox hit series, "So You Think You Can Dance", where his electric, heart-pounding choreography was praised byjudges Debbie Allen, Nigel Lythgoe and Mary Murphy as "tremendous", "pure", "authentic" and "tough", Jeffrey continues to leave his indelible stamp on the world of American entertainment.
+                                Since penning D-DAYS’ original dance theatre, “Dide Omo Dide (Rise, Child, Rise)” in 2000 with then Penn student Zenzele K. Royster, Jeffrey has emerged as a creative force to be reckoned with, having choreographed Beyonce’s “On the Run” tour.  Emmy Award nominated for Outstanding Choreography in Television and winner of the 2011 MTV Video Music Award for Best Choreography in Video, Jeffrey Page has worked with some of the most influential people in the world of dance.  From the bright lights of Broadway in the Tony Award winning musical, FELA!, To the stage of the Fox hit series, “So You Think You Can Dance”, where his electric, heart-pounding choreography was praised by judges Debbie Allen, Nigel Lythgoe and Mary Murphy as “tremendous”, “pure”, “authentic” and “tough”, Jeffrey continues to leave his indelible stamp on the world of American entertainment.  
                             </p>
                         </div>
 
@@ -836,7 +838,7 @@ Story
                             <img class="img-circle" style="max-width: 100px;" src="assets/img/people/z_no_overlay/adel.jpg" />
                             <h4>Adel Morales</h4>
                             <p>
-                                Adel L. Morales, a former high school English teacher-by-day and a ﬁlmmaker-by-night, began his studies at the NYU Grad School Film Program in the Fall of 2012. Bronx born and bred, Adel caught the ﬁlmmaking bug after working on several student ﬁlms and in 2004 co—founded HollyHood Productions, Inc. Already a SAG member, Adel became the President of National Association of Latino Independent Producers (NALIP) NY Chapter in 2008 and served two terms. He has produced sixteen ﬁlms, seven of which he wrote &amp; directed, and launched his web series, "Pushing Dreams", with a largely Latino cast from NYC. Adel is currently in development for a his NYU Graduate thesis feature ﬁlm, an urban Latino horror called "La Santera."
+                                Adel L. Morales, a former high school English teacher-by-day and a filmmaker-by-night, began his studies at Tisch Graduate Film in the Fall of 2012. Bronx born and bred, Adel caught the filmmaking bug after working on several student films and in 2004 co-founded HollyHood Productions, Inc. Already a SAG member, Adel became the President of National Association of Latino Independent Producers (NALIP) NY Chapter in 2008 and served two terms. He has produced sixteen films, seven of which he wrote &amp; directed, and launched his web series, “Pushing Dreams”, with a largely Latino cast from NYC. Adel is currently in development for his NYU Graduate thesis feature film, an urban Latino horror called “La Santera”.
                             </p>
                         </div>
 
@@ -867,7 +869,7 @@ Story
                             <img class="img-circle" style="max-width: 100px;" src="assets/img/people/z_no_overlay/jasmine.jpg" />
                             <h4>Jasmine Davis</h4>
                             <p>
-                                Jasmine Davis has over 12 years of experience in marketing, communications and media relations. An entrepreneurial spirit, she has lead national and global integrated marketing campaigns in the consumer and corporate sectors. Jasmine's focus has been on working with her clients to develop exciting, engaging, and innovative strategies that build and increase brand strength. She has ﬂuidly moved between industries working with companies in professional services (Deloitte, GrantThornton), ﬁlm/television production (BET, Nelvana, Devine Entertainment), and academia (New York University). Jasmine graduated with distinction from New York university with a Bachelor's Degree in Media Studies.
+                                Jasmine Davis has over 12 years of experience in marketing, communications and media relations. An entrepreneurial spirit, she has lead national and global integrated marketing campaigns in the consumer and corporate sectors. Jasmine’s focus has been on working with her clients to develop exciting, engaging, and innovative strategies that build and increase brand strength.  She has fluidly moved between industries working with companies in professional services (Deloitte, Grant Thornton), film/television production (BET, Nelvana, Devine Entertainment), and academia (New York University). Jasmine graduated with distinction from New York University with a BS in Media Studies.
                             </p>
                         </div>
 
@@ -898,7 +900,7 @@ Story
                             <img class="img-circle" style="max-width: 100px;" src="assets/img/people/z_no_overlay/marc.jpg" />
                             <h4>Marc Parees</h4>
                             <p>
-                                Marc Parees is an award winning director. writer and producer oftheatre and ﬁlm with over 18 years experience. His television credits include working with Michael Mayer on NBC's Golden Globe-nominated "Smash" in collaboration with DreamWorks. Marc's PSA "Man in the Mirror" won the Avon/Love Army of Women PSA contest. His creative training started as a classical ballet dancer and continued with a BFA in Drama from NYU, he would eventually go on to graduate from NYU Graduate Film. He is creative director of The Popular Minority. Through his work as creative director of The Popular Minority, Marc seeks to bring idiosyncratic vision to a wider audience with the conviction that the the work of a potent minority drives popular culture for the majority.
+                                Marc Parees is an award winning director, writer and producer of theatre and film with over 18 years experience.  His television credits include working with Michael Mayer on NBC’s Golden Globe-nominated “Smash” in collaboration with DreamWorks.  Marc’s PSA “Man in the Mirror” won the Avon/Love Army of Women PSA contest.  His creative training started as a classical ballet dancer and continued with a BFA in Drama from NYU, he would eventually go on to graduate from NYU Graduate Film.  He is creative director of The Popular Minority. Through his work as creative director of The Popular Minority, Marc seeks to bring idiosyncratic vision to a wider audience with the conviction that the the work of a potent minority drives popular culture for the majority.
                             </p>
                         </div>
 
@@ -929,7 +931,7 @@ Story
                             <img class="img-circle" style="max-width: 100px;" src="assets/img/people/z_no_overlay/trystin.jpg" />
                             <h4>Trystin Kier Francis</h4>
                             <p>
-                                Trystin Kier is Founder &amp; Principal of the Trystin Kier Company, a multi disciplined design firm specializing in residential and commercial Interior Design, event and staging design, design education, and consulting.  Trystin is a favorite to work with having worked alongside the late civil rights activist Dorothy Height on her hit stage play “If this hat could talk. He also worked with local playwright Carole Mumin on her play "Where Eagles Fly" the story of the historic Shaw neighborhood in Washington, DC. Trystin was recently a a co-host on the District of Columbia Cable Network’s daytime program "The O". He has been profiled in the Style and House call sections of the Washington Post, is a recipient of the 2013 Envest Foundation's top "40 under 40" philanthropy award, winner of the Washington City Paper's 2013 Best of D.C. "Best Interior Designer" and Radio One’s 2011 top “30 under 30” professional award.
+                                Trystin Kier is Founder &amp; Principal of the Trystin Kier Company, a multi disciplined design firm specializing in residential and commercial Interior Design, event and staging design, design education, and consulting.  Trystin works on an array of design projects such as the redesign of the Executive Office of the Mayor District of Columbia and multiple independent film and television projects.  Hec collaborated with the late civil rights activist Dorothy Height on her hit stage play “If This Hat Could Talk”.  He also worked with playwright Carole Mumin on “Where Eagles Fly” the story of the historic Shaw neighborhood in Washington, DC.  He is a recipient of the 2013 Envest Foundation’s top “40 under 40” philanthropy award, winner of Radio One’s top “30 under 30” professional award.
                             </p>
                         </div>
                         
